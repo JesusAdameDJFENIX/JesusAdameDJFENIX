@@ -1,3 +1,9 @@
+
+Video De Explicación:
+
+https://youtu.be/5Sd4QoyfUGs
+
+
 1. Diseño de la Interfaz (activity_main.xml)
 
 ConstraintLayout: Este es el contenedor principal que permite colocar los elementos de la interfaz de manera flexible y adaptativa.
@@ -249,6 +255,8 @@ Paea darle click en el boton enviar correo:
 ![ezgif-1-9bda032618](https://github.com/user-attachments/assets/f3a984ec-1e2a-4eef-971e-06bdd94a9858)
 
 
-Video De Explicación:
 
-https://youtu.be/x2CLYRLSORs
+
+
+
+
